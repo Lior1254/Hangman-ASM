@@ -15,10 +15,10 @@ This project helped me understand memory management, loops, string processing, a
 
 ## ▶️ Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lior1254/Hangman-ASM/main/assets/Hangman-ASM.gif
-  " 
-  alt="Hangman Demo" width="500"/>
+  <img src="https://raw.githubusercontent.com/Lior1254/Hangman-ASM/main/assets/Hangman-ASM.gif" 
+       alt="Hangman Demo" width="500"/>
 </p>
+
 
 
 
