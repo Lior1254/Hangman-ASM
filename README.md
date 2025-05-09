@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lior1254/Lior1254/main/.github/workflows/hangman_animation.gif" 
-  alt="Hangman Demo" width="500"/>
+  <img src="https://raw.githubusercontent.com/Lior1254/Hangman-ASM/main/assets/hangman_animation.gif" 
+  alt="Hangman Demo" width="75"/>
 </p>
-
 
 
 # Hangman-ASM 🎮
@@ -16,12 +15,12 @@ This project helped me understand memory management, loops, string processing, a
 
 ## ▶️ Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lior1254/Lior1254/main/.github/workflows/Hangman-ASM.gif" 
+  <img src="https://raw.githubusercontent.com/Lior1254/Hangman-ASM/main/assets/Hangman-ASM.gif
+  " 
   alt="Hangman Demo" width="500"/>
 </p>
 
 
----
 
 ## ⚙️ How to Run
 
